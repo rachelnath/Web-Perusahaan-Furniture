@@ -1,0 +1,118 @@
+.navbar {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-logo {
+    width: 130px;
+}
+
+.container-about {
+    padding: 50px;
+}
+
+ul {
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    line-height: 1.5;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    background-color: #ffffff;
+    width: 50%;
+    padding: 2rem;
+    margin-top: 250px;
+}
+
+h2 {
+    background: #ededed;
+    color: black;
+    letter-spacing: 0.1rem;
+    padding: 1rem;
+    cursor: default;
+    align-items: center;
+}
+
+form,
+input,
+textarea,
+button {
+    font-size: medium;
+}
+
+.form-group label {
+    display: block;
+    margin: 2rem 0 0.5rem 0;
+}
+
+.form-group input [type="text"],
+.form-group input [type="email"],
+.form-group textarea {
+    width: 100%;
+    padding: 1rem 0.8rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    
+}
+
+.form-group input [type="text"],
+.form-group input [type="email"] {
+    height: 4.6rem;
+}
+
+.submit {
+    background: #ededed;
+    color: black;
+    font-weight: bold;
+    margin-top: 1rem;
+    padding: 1rem 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+.submit:hover {
+    background: rgb(187, 150, 107);
+    color: white;
+}
+
+input {
+    width: 100%;
+}
+
+.container-footer {
+    background-color: black;
+    padding: 50px;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.logo-footer {
+    width: 300px;
+}
+
+.text-footer {
+    height: 50px;
+}
+
+hr {
+    color: #ffffff;
+}
+
+.row {
+    align-items: center;
+    justify-content: center;
+}

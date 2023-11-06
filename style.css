@@ -1,0 +1,81 @@
+.navbar {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-logo {
+    width: 130px;
+}
+
+.container-about {
+    padding: 50px;
+}
+
+ul {
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.row {
+    align-items: center;
+    justify-content: center;
+}
+
+.about-image {
+    height: 500px;
+}
+
+.visi-image {
+    height: 650px;
+}
+
+.visi-image2 {
+    height: 500px;
+}
+
+.visi1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-visi {
+    padding: 50px;
+    background-color: #ededed;
+}
+
+.container-misi {
+    padding: 50px;
+}
+
+.container-factory {
+    padding: 50px;
+    background-color: #ededed;
+}
+
+.card {
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+.container-footer {
+    background-color: black;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+
+.logo-footer {
+    width: 300px;
+}
+
+.text-footer {
+    height: 50px;
+}
+
+hr {
+    color: #ffffff;
+}
